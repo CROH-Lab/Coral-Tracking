@@ -10,11 +10,12 @@ The Coral Reef and Ocean Health Research Group currently houses nine species of 
 4. _Soleanatsrea intersepta_ (SINT:Caribbean)
 5. _Montastrea cavernosa_ (MCAV:Caribbean)
 6. _Scolymia cubensis_ (SCUB:Caribbean)
-7. _Phyllangia americana_ (PAME:Caribbean) 
-8. _Agaricia sp._ (AGAR:Caribbean)
-9. _Montipora capitata_ (Pacific)
-10. _Pocillopora acuta_ (Pacific)
-11. _Porites compresa_ (Pacific)
-12. _Fungia sp._ (Pacific)
+7. _Phyllangia americana_ (PAME:Caribbean)
+8. _Astrangia sp._
+9. _Agaricia sp._ (AGAR:Caribbean)
+10. _Montipora capitata_ (Pacific)
+11. _Pocillopora acuta_ (Pacific)
+12. _Porites compresa_ (Pacific)
+13. _Fungia sp._ (Pacific)
 
 several are used for ongoing stress experiments in an effort to characterize and understand the physiological stress responses of corals to ongoing and future environmental changes. Our second goal is to develop a working stock of corals for collaborative research efforts in the future.
