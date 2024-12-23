@@ -2,7 +2,7 @@
 This is a tracking sheet to view live data related to coral health, water quality parameters, and standing genetic diversity of several endangered, threatened, and under-studied coral species.
 
 ### Current Stock and Mission
-The Coral Reef and Ocean Health Research Group currently houses nine species of corals from several bodies of water (Gulf of Mexico/Caribbean, Atlantic, and Hawaiian/Pacific). The first goal of our coral research program is to increase the genetic diversity of threatened and endangered coral species by collaborating with state/federal and academic institutions to increase genetic representation and restoration potential. Of the nine species of corals we house:
+The Coral Reef and Ocean Health Research Group currently houses thirteen species of corals from several bodies of water (Gulf of Mexico/Caribbean, Atlantic, and Hawaiian/Pacific). The first goal of our coral research program is to increase the genetic diversity of threatened and endangered coral species by collaborating with state/federal and academic institutions to increase genetic representation and restoration potential. Of the nine species of corals we house:
 
 1. _Acropora cervicornis_ (ACER:Caribbean)
 2. _Orbicella faveolata_ (OFAV:Caribbean)
