@@ -15,7 +15,7 @@ The Coral Reef and Ocean Health Research Group currently houses thirteen species
 9. _Agaricia sp._ (AGAR:Caribbean)
 10. _Montipora capitata_ (Pacific)
 11. _Pocillopora acuta_ (Pacific)
-12. _Porites compresa_ (Pacific)
+12. _Porites compressa_ (Pacific)
 13. _Fungia sp._ (Pacific)
 
 several are used for ongoing stress experiments in an effort to characterize and understand the physiological stress responses of corals to ongoing and future environmental changes. Our second goal is to develop a working stock of corals for collaborative research efforts in the future.
