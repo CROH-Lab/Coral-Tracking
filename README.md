@@ -6,7 +6,7 @@ The Coral Reef and Ocean Health Research Group currently houses thirteen species
 
 1. _Acropora cervicornis_ (ACER:Caribbean)
 2. _Orbicella faveolata_ (OFAV:Caribbean)
-3. _Siderastrea sidera_ (SSID:Caribbean)
+3. _Siderastrea siderea_ (SSID:Caribbean)
 4. _Soleanatsrea intersepta_ (SINT:Caribbean)
 5. _Montastrea cavernosa_ (MCAV:Caribbean)
 6. _Scolymia cubensis_ (SCUB:Caribbean)
